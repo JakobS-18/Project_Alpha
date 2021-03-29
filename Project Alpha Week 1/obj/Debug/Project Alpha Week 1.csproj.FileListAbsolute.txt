@@ -1,0 +1,7 @@
+C:\Users\jstan\source\repos\Project Alpha Week 1\bin\Debug\Project Alpha Week 1.exe.config
+C:\Users\jstan\source\repos\Project Alpha Week 1\bin\Debug\Project Alpha Week 1.exe
+C:\Users\jstan\source\repos\Project Alpha Week 1\bin\Debug\Project Alpha Week 1.pdb
+C:\Users\jstan\source\repos\Project Alpha Week 1\obj\Debug\Project Alpha Week 1.csprojAssemblyReference.cache
+C:\Users\jstan\source\repos\Project Alpha Week 1\obj\Debug\Project Alpha Week 1.csproj.CoreCompileInputs.cache
+C:\Users\jstan\source\repos\Project Alpha Week 1\obj\Debug\Project Alpha Week 1.exe
+C:\Users\jstan\source\repos\Project Alpha Week 1\obj\Debug\Project Alpha Week 1.pdb
